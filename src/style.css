@@ -1,0 +1,14 @@
+
+
+.img-title {
+  width: 100%;
+  height: 450px;
+}
+.nav,
+.proyectos {
+  background-color: #1b463e;
+  color: white
+}
+a.nav-link {
+  color: aliceblue;
+}
